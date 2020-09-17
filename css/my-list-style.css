@@ -1,0 +1,103 @@
+/**
+ TODO(you): Add CSS for the list that you create yourself!
+*/
+
+/** regular tag **/
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+header {
+    height: 61%;
+    color: white;
+
+    background-image: url(../img/header.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/** class **/
+.profile {
+    font-family: 'Source Sans Pro', serif;
+    font-size: 18px;
+
+    text-align: center;
+    color: rgb(51, 51, 51);
+    margin-bottom: 10px;
+    line-height: 24px;
+}
+
+.text {
+    font-family: 'Source Sans Pro', serif;
+    font-size: 18px;
+    width: 50%;
+    text-align: center;
+    text-align: justify;
+    margin: 50px auto;
+
+}
+
+
+
+/** id **/
+
+#myimg {
+    height: 17.5%;
+    width: 12.5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8%;
+
+    background-image: url(../img/vrk.png);
+    background-repeat: no-repeat;
+    
+}
+
+#photo1 {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../img/fisrt.jpg);
+
+    height: 500px;
+}
+
+#photo2 {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/shaq\ and\ kobe.jpg);
+
+    height: 500px;
+}
+
+
+#photo3 {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/champ.jpg);
+
+    height: 500px;
+}
+
+#photo4 {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/animation.jpg);
+
+    height: 500px;
+}
+
+#photo5 {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/kobe\ gigi.jpg);
+
+    height: 500px;
+}
